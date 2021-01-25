@@ -1,1 +1,1 @@
-# Cross-Lingual Document Ranking using Earth Mover’sDistance
+# Cross-Lingual Document Ranking using Earth Mover’s Distance
