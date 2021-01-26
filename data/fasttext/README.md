@@ -1,0 +1,1 @@
+# FastText - Aligned Word Embeddings
